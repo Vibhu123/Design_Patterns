@@ -1,5 +1,4 @@
-# Design_Patterns
-Creational Design Patterns:
+# Creational Design Patterns:
 
 These design patterns deal with making objects related to the different set of situations. The basic form of object creation could result in design problems or added complexity to the design. Creational design patterns solve this problem by somehow controlling this object creation.
 
