@@ -6,5 +6,5 @@ Here I have covered a set of different design pattern techniques that we use in 
 Pattern techniques covered:
 
 - Creational Design Patterns (creational_design_pattern branch)
-- Structural Design Patterns (structural_design_pattern branch)
-- Behavorial Design Patterns (behavorial_design_pattern branch)
+- Structural Design Patterns (structural_design_pattern branch - in progress)
+- Behavorial Design Patterns (behavorial_design_pattern branch - in progress)
